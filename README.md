@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Jisegun
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Cloud development
-- 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me @Jisegun
-
-<!---
-Jisegun/Jisegun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Segun Ajisafe
+- 👀 I’m interested in Cloud DevOps
+- 🌱 I’m currently into cloud DevOps, Cloud Development and Infrastructure 
+- 💞️ I’m looking to collaborate on different technologies: Aws, Azure and GCP
+- My top used stacks are Aws services, AWS, CI/CD, Docker, Kubernates, Microservices, Git
+- Ask me about anything cloud DevOps, Cloud development and Architecture.
+- 📫 You can reach me on safesty1@gmail.com
