@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on different technologies: Aws, Azure and GCP
 - My top used stacks are Aws services, AWS, CI/CD, Docker, Kubernates, Microservices, Git
 - Ask me about anything cloud DevOps, Cloud development and Architecture.
-- 📫 You can reach me on segunajisafe51@gmail.com
+- 📫 You can reach me on segunajisafe5@gmail.com
