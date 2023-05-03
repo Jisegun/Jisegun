@@ -2,6 +2,6 @@
 - 👀 I’m interested in Cloud DevOps
 - 🌱 I’m currently into cloud DevOps, Cloud Development and Infrastructure 
 - 💞️ I’m looking to collaborate on different technologies: Aws, Azure and GCP
-- My top used stacks are Aws services, AWS, CI/CD, Docker, Kubernates, Microservices, Git
+- My top used stacks are Aws services, AWS, CI/CD, Docker, Kubernetes, Microservices, Git
 - Ask me about anything cloud DevOps, Cloud development and Architecture.
 - 📫 You can reach me on segunajisafe5@gmail.com
